@@ -1,0 +1,10 @@
+name = "Latvian National Armed Forces";
+picture = "";
+description = "Latvian National Armed Forces - NBS v1.0";
+logo = "";
+logoOver = "";
+tooltip = "LNAF - NBS";
+tooltipOwned = "LNAF - NBS Owned";
+overview = "A addon that brings Latvian National Armed Forces in Arma 3!";
+author = "CreepPork_LV";
+overviewPicture = "";
